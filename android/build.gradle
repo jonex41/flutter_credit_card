@@ -26,7 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
    
-    compileSdk 31
+    compileSdkVersion 31
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
